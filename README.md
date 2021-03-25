@@ -3,11 +3,12 @@ A Realtime chat app with websockets using Node.js, Express and Socket.io with Va
 
 ## preparing and running chatter
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+To use use the below command to get running.
 
 ```bash
 npm install
 nodemon server || nodemon dev || node server.js
+http://localhost:3000/
 ```
 
 ## Contributing
